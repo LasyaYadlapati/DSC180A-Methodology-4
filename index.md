@@ -1,5 +1,9 @@
-Sai Sri Lasya Yadlapati
-syadlapati@ucsd.edu
+# DSC180A-Methodology-4
 
-A10
-Alex Warstadt
+Name: Sai Sri Lasya Yadlapati
+
+Email: syadlapati@ucsd.edu
+
+Section: A10
+
+Mentor: Alex Warstadt
