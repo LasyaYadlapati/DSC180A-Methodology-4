@@ -28,5 +28,6 @@ A potential change I would make to the approach taken in my Quarter 1 Project is
 Training on 10M will let us test true data efficiency, run more experiments faster, and make it easier to debug issues like overfitting.
 
 **4. What other techniques would you be interested in using in your project?**
+
 Other techniques I would be interested in using in my project are experimenting with curriculum learning, where the model first trains on simple phoneme sequences and then moves to more complex ones.
 This could mimic how humans learn sounds and might improve convergence.
